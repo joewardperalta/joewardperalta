@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Joeward — a Full Stack Developer.  
+I love turning ideas into fully functional web applications.  
 
-<!--
-**joewardperalta/joewardperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Tech Stack:  
+Frontend: React, Next.js, Tailwind CSS  
+Backend: Node.js, Express, MongoDB  
+Other: Git, REST APIs  
 
-Here are some ideas to get you started:
+🎯 Current Goals:  
+- Building impactful real-world projects  
+- Learning & sharing my full stack journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: 
+✉️ [joeward_peralta@outlook.com]
+👨🏻‍💼 [https://www.linkedin.com/in/joewardperalta/]
+🔗 [https://www.joewardperalta.dev/]
