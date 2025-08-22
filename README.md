@@ -11,6 +11,9 @@ Other: Git, REST APIs
 - Learning & sharing my full stack journey
 
 📫 Reach me at: 
-✉️ [joeward_peralta@outlook.com]
-👨🏻‍💼 [https://www.linkedin.com/in/joewardperalta/]
-🔗 [https://www.joewardperalta.dev/]
+
+✉️ joeward_peralta@outlook.com
+
+👨🏻‍💼 https://www.linkedin.com/in/joewardperalta/
+
+🔗 https://www.joewardperalta.dev/
